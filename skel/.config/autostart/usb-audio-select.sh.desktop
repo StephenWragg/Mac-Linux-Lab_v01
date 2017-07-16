@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/usb-audio-select.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=usb-audio-select
+Name=usb-audio-select
+Comment[en_US]=
+Comment=

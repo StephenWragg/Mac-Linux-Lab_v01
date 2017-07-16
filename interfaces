@@ -1,0 +1,9 @@
+# interfaces(5) file used by ifup(8) and ifdown(8)
+auto lo
+iface lo inet loopback
+
+auto wlp4s0
+iface wlp4s0 inet dhcp
+wpa-driver nl80211
+wpa-conf /etc/wpa_supplicant.conf
+
